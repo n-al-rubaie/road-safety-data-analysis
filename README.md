@@ -4,6 +4,12 @@ Analysis of the **UK Road Safety Data – Accidents 2019**, exploring factors co
 
 ---
 
+
+
+https://github.com/user-attachments/assets/a7b6543e-8a42-432a-8abf-fc9087ab42e7
+
+
+
 ## Overview
 The dataset contains **117,536 records** of accidents, including location, time, vehicles involved, severity, and environmental conditions. The project investigates patterns in:
 
